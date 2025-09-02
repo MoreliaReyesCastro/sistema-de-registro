@@ -2,6 +2,6 @@
 
 - Estado del proyecto en construccion-.
 
- ```npm install react´´´
+ ```npm install react```
 
  Sistema de registro 2
